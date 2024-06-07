@@ -1,6 +1,6 @@
 # My_IA
 
-My_IA is a simple IA who play tetris in deep learning developed in python using the Pytorch, Numpy and Pygame Library.
+My_IA is a simple IA who play snake in deep learning developed in python using the Pytorch, Numpy and Pygame Library.
 
 ## Requirements
 
